@@ -1,0 +1,1001 @@
+id,nct_id,name,downcase_name
+164627422,NCT05172583,Delirium,delirium
+164627423,NCT01670305,Periodontal Disease,periodontal disease
+164627424,NCT02773953,Obstructive Sleep Apnea,obstructive sleep apnea
+164627425,NCT02160899,Elevated Lipoprotein(a),elevated lipoprotein(a)
+164627426,NCT05212545,Mood,mood
+164627427,NCT04129151,Ewing Sarcoma,ewing sarcoma
+164627428,NCT04129151,Ewing's Sarcoma Recurrent,ewing's sarcoma recurrent
+164627429,NCT04030156,OSAS,osas
+164627430,NCT04030156,Recurrent Tonsillitis,recurrent tonsillitis
+164627431,NCT03220451,Pressure Ulcer,pressure ulcer
+164627432,NCT03220451,Spinal Cord Injuries,spinal cord injuries
+164627433,NCT02603666,Cystic Fibrosis,cystic fibrosis
+164627434,NCT02603666,Liver Fibrosis,liver fibrosis
+164627435,NCT04866745,Knee Osteoarthritis,knee osteoarthritis
+164627436,NCT04866745,Pain,pain
+164627437,NCT05249478,Post Operative Pain,post operative pain
+164627438,NCT03118661,HIV-1-infection,hiv-1-infection
+164627439,NCT00748852,Dyslipidemia,dyslipidemia
+164627440,NCT04958954,SARS-CoV-2,sars-cov-2
+164627441,NCT03522623,IBD,ibd
+164627442,NCT02509234,Recurrent Childhood Soft Tissue Sarcoma,recurrent childhood soft tissue sarcoma
+164627443,NCT02509234,Recurrent Ewing Sarcoma,recurrent ewing sarcoma
+164627444,NCT02509234,Recurrent Rhabdomyosarcoma,recurrent rhabdomyosarcoma
+164627445,NCT00947440,Hepatitis C,hepatitis c
+164627446,NCT04882345,Lung Cancer,lung cancer
+164627447,NCT04882345,EGFR Gene Mutation,egfr gene mutation
+164627448,NCT02156271,Insomnia,insomnia
+164627449,NCT00689260,Growth Hormone Deficiency,growth hormone deficiency
+164627450,NCT00391209,"Diabetes Mellitus, Type 2","diabetes mellitus, type 2"
+164627451,NCT05012670,Healthy,healthy
+164627452,NCT03648866,Spiritual Wellness,spiritual wellness
+164627453,NCT03645343,"Malocclusion, Angle Class II","malocclusion, angle class ii"
+164627454,NCT03645343,Retrognathism,retrognathism
+164627455,NCT03645343,TMJ,tmj
+164627456,NCT03605602,"Non-Small Cell Carcinoma of Lung, TNM Stage 4","non-small cell carcinoma of lung, tnm stage 4"
+164627457,NCT01055652,Type 2 Diabetes Mellitus,type 2 diabetes mellitus
+164627458,NCT04582123,Supracondylar Humerus Fracture,supracondylar humerus fracture
+164627459,NCT02793856,Metastatic Non-small Cell Lung Cancer,metastatic non-small cell lung cancer
+164627460,NCT01343693,DDD,ddd
+164627461,NCT01343693,Deformity,deformity
+164627462,NCT01343693,Tumor,tumor
+164627463,NCT01343693,Fracture,fracture
+164627464,NCT01588418,Impaired Glucose Tolerance (IGT),impaired glucose tolerance (igt)
+164627465,NCT01588418,Diabetes,diabetes
+164627466,NCT01235598,Rheumatoid Arthritis,rheumatoid arthritis
+164627467,NCT04903743,Diabetic Patient,diabetic patient
+164627468,NCT03467100,Healthy Volunteers,healthy volunteers
+164627469,NCT00265148,Alzheimer's Disease,alzheimer's disease
+164627470,NCT05469698,Tobacco Cessation,tobacco cessation
+164627471,NCT05469698,Peripheral Artery Disease,peripheral artery disease
+164627472,NCT04645498,Covid19,covid19
+164627473,NCT04645498,"Metabolism, Inborn Errors","metabolism, inborn errors"
+164627474,NCT02909387,Epilepsy,epilepsy
+164627475,NCT02909387,Depressive Symptoms,depressive symptoms
+164627476,NCT02909387,Anxiety Disorders and Symptoms,anxiety disorders and symptoms
+164627477,NCT03393533,Pain,pain
+164627478,NCT00095940,Recurrent Childhood Anaplastic Astrocytoma,recurrent childhood anaplastic astrocytoma
+164627479,NCT00095940,Recurrent Childhood Brain Stem Glioma,recurrent childhood brain stem glioma
+164627480,NCT00095940,Recurrent Childhood Ependymoma,recurrent childhood ependymoma
+164627481,NCT00095940,Recurrent Childhood Giant Cell Glioblastoma,recurrent childhood giant cell glioblastoma
+164627482,NCT00095940,Recurrent Childhood Glioblastoma,recurrent childhood glioblastoma
+164627483,NCT00095940,Recurrent Childhood Gliosarcoma,recurrent childhood gliosarcoma
+164627484,NCT00095940,Recurrent Childhood Medulloblastoma,recurrent childhood medulloblastoma
+164627485,NCT00095940,Recurrent Childhood Oligodendroglioma,recurrent childhood oligodendroglioma
+164627486,NCT03074019,Healthy,healthy
+164627487,NCT04491604,Dystrophic Epidermolysis Bullosa,dystrophic epidermolysis bullosa
+164627488,NCT04491604,Recessive Dystrophic Epidermolysis Bullosa,recessive dystrophic epidermolysis bullosa
+164627489,NCT04491604,Dominant Dystrophic Epidermolysis Bullosa,dominant dystrophic epidermolysis bullosa
+164627490,NCT05220475,Malignant Biliary Obstruction,malignant biliary obstruction
+164627491,NCT06131099,Down Syndrome,down syndrome
+164627492,NCT01503411,Barrett's Esophagus,barrett's esophagus
+164627493,NCT01198613,Ragweed Allergy,ragweed allergy
+164627494,NCT03590964,Atrophied Posterior Maxilla,atrophied posterior maxilla
+164627495,NCT00615901,Breast Cancer,breast cancer
+164627496,NCT03263702,Persistent Atrial Fibrillation,persistent atrial fibrillation
+164627497,NCT03598114,Program Sustainability,program sustainability
+164627498,NCT03598114,Tobacco Use,tobacco use
+164627499,NCT03322319,Left Ventricular Hypertrophy,left ventricular hypertrophy
+164627500,NCT01324518,Alzheimer's Disease,alzheimer's disease
+164627501,NCT02073409,Cystic Fibrosis,cystic fibrosis
+164627502,NCT04175990,IVF,ivf
+164627503,NCT04175990,Oocyte Maturation Defect 1,oocyte maturation defect 1
+164627504,NCT04175990,Clinical Pregnancy Rate,clinical pregnancy rate
+164627505,NCT04175990,Ovarian Hyperstimulation,ovarian hyperstimulation
+164627506,NCT02926521,Regional Anesthesia Morbidity,regional anesthesia morbidity
+164627507,NCT03922113,Critically Ill,critically ill
+164627508,NCT03922113,Colorectal Surgery,colorectal surgery
+164627509,NCT03922113,Healthy,healthy
+164627510,NCT03922113,Muscle Strength,muscle strength
+164627511,NCT04825730,Degenerative Arthritis,degenerative arthritis
+164627512,NCT04825730,Knee Arthritis,knee arthritis
+164627513,NCT02651909,Anemia,anemia
+164627514,NCT02651909,Venous Thrombosis,venous thrombosis
+164627515,NCT05607212,Muscle Soreness,muscle soreness
+164627516,NCT05607212,Muscle Weakness,muscle weakness
+164627517,NCT05607212,Muscle Tenderness,muscle tenderness
+164627518,NCT03963167,COPD,copd
+164627519,NCT00564057,HIV Infections,hiv infections
+164627520,NCT00564057,Hypertension,hypertension
+164627521,NCT02236182,"Pulmonary Disease, Chronic Obstructive","pulmonary disease, chronic obstructive"
+164627522,NCT05779371,Community-dwelling Older Adults,community-dwelling older adults
+164627523,NCT03319745,Stage I Bladder Cancer AJCC v8,stage i bladder cancer ajcc v8
+164627524,NCT03319745,Stage II Bladder Cancer AJCC v8,stage ii bladder cancer ajcc v8
+164627525,NCT03319745,Stage III Bladder Cancer AJCC v8,stage iii bladder cancer ajcc v8
+164627526,NCT03319745,Stage IIIA Bladder Cancer AJCC v8,stage iiia bladder cancer ajcc v8
+164627527,NCT03319745,Stage IIIB Bladder Cancer AJCC v8,stage iiib bladder cancer ajcc v8
+164627528,NCT04670627,Seasonal Allergic Rhinitis,seasonal allergic rhinitis
+164627529,NCT04670627,Rhinovirus,rhinovirus
+164627530,NCT03872076,Muscle Loss,muscle loss
+164627531,NCT01646164,Uterus Contractions Pattern,uterus contractions pattern
+164627532,NCT03287271,Ovarian Cancer,ovarian cancer
+164627533,NCT01523847,Hodgkin Lymphoma,hodgkin lymphoma
+164627534,NCT00985036,Glioma,glioma
+164627535,NCT00985036,Meningioma,meningioma
+164627536,NCT02065427,Dependency Burden,dependency burden
+164627537,NCT00910624,"Hepatitis C, Chronic","hepatitis c, chronic"
+164627538,NCT04670250,"IBD, Non Invasive Markers,IL6,Lactoferrin,Ferritin","ibd, non invasive markers,il6,lactoferrin,ferritin"
+164627539,NCT03255629,Post-bariatric Hypoglycemia,post-bariatric hypoglycemia
+164627540,NCT00977847,Family Characteristics,family characteristics
+164627541,NCT00977847,Health Status,health status
+164627542,NCT00977847,Family Research,family research
+164627543,NCT02603731,Delirium,delirium
+164627544,NCT02603731,Intensive Care Unit Syndrome,intensive care unit syndrome
+164627545,NCT03717428,Weight Gain,weight gain
+164627546,NCT05291169,Venous Leg Ulcer,venous leg ulcer
+164627547,NCT01488123,Breast Cancer,breast cancer
+164627548,NCT00412373,Schizoaffective Disorder,schizoaffective disorder
+164627549,NCT00412373,Psychotic Disorder,psychotic disorder
+164627550,NCT00745589,Endstage Renal Disease,endstage renal disease
+164627551,NCT02299739,Drug-Induced Liver Injury,drug-induced liver injury
+164627552,NCT02299739,Musculoskeletal Diseases,musculoskeletal diseases
+164627553,NCT02969408,Asthma,asthma
+164627554,NCT01104376,"Efavirenz, Metabolism and Pharmacokinetics Changes","efavirenz, metabolism and pharmacokinetics changes"
+164627555,NCT04374227,Osteopathy in Diseases Classified Elsewhere,osteopathy in diseases classified elsewhere
+164627556,NCT00000460,Cardiovascular Diseases,cardiovascular diseases
+164627557,NCT00000460,Coronary Disease,coronary disease
+164627558,NCT00000460,Heart Diseases,heart diseases
+164627559,NCT00000460,Myocardial Ischemia,myocardial ischemia
+164627560,NCT05277948,Diminished Ovarian Reserve,diminished ovarian reserve
+164627561,NCT02404090,Obesity,obesity
+164627562,NCT02404090,Weight Loss,weight loss
+164627563,NCT02404090,Knee Osteoarthritis,knee osteoarthritis
+164627564,NCT04059536,Chronic Total Occlusion,chronic total occlusion
+164627565,NCT04059536,Atherosclerosis,atherosclerosis
+164627566,NCT04059536,Coronary Artery Disease,coronary artery disease
+164627567,NCT04059536,Peripheral Artery Disease,peripheral artery disease
+164627568,NCT01145586,Lactose Intolerance,lactose intolerance
+164627569,NCT00640224,Polycystic Ovary Syndrome,polycystic ovary syndrome
+164627570,NCT00260962,Anorexia Nervosa,anorexia nervosa
+164627571,NCT00824304,Cognitive Function,cognitive function
+164627572,NCT00824304,Growth,growth
+164627573,NCT05713149,Disability or Chronic Disease Leading to Disablement,disability or chronic disease leading to disablement
+164627574,NCT05713149,Pressure Ulcer,pressure ulcer
+164627575,NCT05713149,Osteomyelitis,osteomyelitis
+164627576,NCT01883076,Hypoplastic Left Heart Syndrome,hypoplastic left heart syndrome
+164627577,NCT01254162,Oily Skin,oily skin
+164627578,NCT01254162,Seborrhea,seborrhea
+164627579,NCT05354362,Relapsed/Refractory Diffuse Large B-cell Lymphoma,relapsed/refractory diffuse large b-cell lymphoma
+164627580,NCT00015834,Blastic Phase Chronic Myelogenous Leukemia,blastic phase chronic myelogenous leukemia
+164627581,NCT00015834,"Chronic Myelogenous Leukemia, BCR-ABL1 Positive","chronic myelogenous leukemia, bcr-abl1 positive"
+164627582,NCT00015834,Relapsing Chronic Myelogenous Leukemia,relapsing chronic myelogenous leukemia
+164627583,NCT01389661,Maxillary Cyst,maxillary cyst
+164627584,NCT01389661,Bone Loss of Substance,bone loss of substance
+164627585,NCT00033267,Recurrent Mantle Cell Lymphoma,recurrent mantle cell lymphoma
+164627586,NCT05099367,"Diabetes Mellitus, Type 2","diabetes mellitus, type 2"
+164627587,NCT05099367,Diabetic Foot,diabetic foot
+164627588,NCT05693012,Multiple Myeloma,multiple myeloma
+164627589,NCT00367783,Obesity,obesity
+164627590,NCT02011724,Venous Leg Ulcers,venous leg ulcers
+164627591,NCT04442035,Breast Cancer Female,breast cancer female
+164627592,NCT04442035,Quality of Life,quality of life
+164627593,NCT04442035,"Depression, Anxiety","depression, anxiety"
+164627594,NCT01343381,Coronary Artery Disease,coronary artery disease
+164627595,NCT03671317,Anxiety State,anxiety state
+164627596,NCT03671317,Pain,pain
+164627597,NCT03671317,Stress,stress
+164627598,NCT05637528,Breast Cancer,breast cancer
+164627599,NCT02270372,Advanced Breast Carcinoma,advanced breast carcinoma
+164627600,NCT02270372,Advanced Ovarian Carcinoma,advanced ovarian carcinoma
+164627601,NCT01996839,Inflammation,inflammation
+164627602,NCT01996839,Pain,pain
+164627603,NCT01996839,Cataract,cataract
+164721839,NCT05930665,Pleural Mesothelioma,pleural mesothelioma
+164627604,NCT05981781,Postoperative Pain in Paediatric Hip Surgery,postoperative pain in paediatric hip surgery
+164627605,NCT05981781,PENG Block,peng block
+164627606,NCT05981781,Caudal Block,caudal block
+164627607,NCT02379130,Premature Birth,premature birth
+164627608,NCT05873166,Flatfoot,flatfoot
+164627609,NCT01919281,Polycystic Ovary Syndrome,polycystic ovary syndrome
+164627610,NCT04582253,Eye Diseases,eye diseases
+164627611,NCT00955201,Diabetic Neuropathy,diabetic neuropathy
+164627612,NCT00718588,Rheumatoid Arthritis,rheumatoid arthritis
+164627613,NCT04356261,College Drinking,college drinking
+164627614,NCT04356261,Underage Drinking,underage drinking
+164627615,NCT04356261,Alcohol Use Disorder,alcohol use disorder
+164627616,NCT02471612,External Causes of Morbidity and Mortality,external causes of morbidity and mortality
+164627617,NCT01814709,Healthy Volunteer,healthy volunteer
+164627618,NCT00109980,Inflammation,inflammation
+164627619,NCT01625260,Non-muscle Invasive Bladder Cancer,non-muscle invasive bladder cancer
+164627620,NCT01458041,Peripheral Arterial Disease,peripheral arterial disease
+164627621,NCT05987995,Infertility,infertility
+164627622,NCT00838032,Acute Schizophrenia,acute schizophrenia
+164627623,NCT01786772,Tear of Fibrocartilage of Joint,tear of fibrocartilage of joint
+164627624,NCT02722304,Chronic Obstructive Pulmonary Disease,chronic obstructive pulmonary disease
+164627625,NCT02722304,Alpha1-antitrypsin Deficiency,alpha1-antitrypsin deficiency
+164627626,NCT01855646,Health Care Quality,health care quality
+164627627,NCT01855646,Access and Evaluation,access and evaluation
+164627628,NCT00003021,"Unspecified Adult Solid Tumor, Protocol Specific","unspecified adult solid tumor, protocol specific"
+164627629,NCT06257589,Diaphragm Issues,diaphragm issues
+164627630,NCT06257589,"Diaphragm; Paralysis, Due to Accidental Section of Phrenic Nerve During Procedure","diaphragm; paralysis, due to accidental section of phrenic nerve during procedure"
+164627631,NCT06257589,Breath Shortness,breath shortness
+164627632,NCT06257589,Diaphragmatic Paralysis,diaphragmatic paralysis
+164627633,NCT04756908,Cataract,cataract
+164627634,NCT04024189,Patient Satisfaction,patient satisfaction
+164627635,NCT02835976,Healthy Volunteer,healthy volunteer
+164627636,NCT05007535,ST Elevation Myocardial Infarction,st elevation myocardial infarction
+164627637,NCT05007535,Acute Myocardial Infarction,acute myocardial infarction
+164627638,NCT05007535,Coronary Artery Disease,coronary artery disease
+164627639,NCT05007535,Percutaneous Coronary Intervention,percutaneous coronary intervention
+164627640,NCT05007535,Intravascular Ultrasound,intravascular ultrasound
+164627641,NCT05007535,Thrombus,thrombus
+164627642,NCT04856839,Syringomyelia/Hydromyelia,syringomyelia/hydromyelia
+164627643,NCT00021918,Cardiovascular Diseases,cardiovascular diseases
+164627644,NCT00021918,Atherosclerosis,atherosclerosis
+164627645,NCT00021918,Heart Diseases,heart diseases
+164627646,NCT00021918,"Diabetes Mellitus, Non-insulin Dependent","diabetes mellitus, non-insulin dependent"
+164627647,NCT00021918,Hypertension,hypertension
+164627648,NCT00021918,Diabetes Mellitus,diabetes mellitus
+164627649,NCT00673530,Malnutrition,malnutrition
+164627650,NCT00635219,Major Depressive Disorder,major depressive disorder
+164627651,NCT04721080,Copd,copd
+164627652,NCT04721080,Tuberculosis,tuberculosis
+164627653,NCT04721080,Quality of Life,quality of life
+164627654,NCT01755000,Leukemia,leukemia
+164627655,NCT01755000,Lymphoma,lymphoma
+164627656,NCT01755000,Paraproteinemias,paraproteinemias
+164627657,NCT01755000,Multiple Myeloma,multiple myeloma
+164627658,NCT01755000,Myelodysplastic Syndromes,myelodysplastic syndromes
+164627659,NCT06248775,Type 2 Diabetes,type 2 diabetes
+164627660,NCT06248775,Lifestyle,lifestyle
+164627661,NCT06248775,Prehabilitation,prehabilitation
+164627662,NCT06248775,Vascular Surgery,vascular surgery
+164627663,NCT04090801,Female Pattern Hair Loss,female pattern hair loss
+164627664,NCT02456363,Ankylosing Spondylitis,ankylosing spondylitis
+164627665,NCT02671604,Rhabdomyolysis,rhabdomyolysis
+164627666,NCT04380272,Obstructive Tonsillar Hypertrophy,obstructive tonsillar hypertrophy
+164627667,NCT06519045,Pharmacokinetics,pharmacokinetics
+164627668,NCT04390204,"Urinary Incontinence,Stress","urinary incontinence,stress"
+164627669,NCT01940172,Relapsed Epithelial Ovarian Cancer,relapsed epithelial ovarian cancer
+164627670,NCT01940172,Relapsed Primary Peritoneal Cancer,relapsed primary peritoneal cancer
+164627671,NCT01940172,Relapsed Fallopian Tube Cancer,relapsed fallopian tube cancer
+164627672,NCT05536271,Acute Coronary Syndrome,acute coronary syndrome
+164627673,NCT06412614,Systemic Sclerosis,systemic sclerosis
+164627674,NCT04113213,Behavior Change Interventions,behavior change interventions
+164627675,NCT04113213,Cardiovascular Diseases,cardiovascular diseases
+164627676,NCT04113213,Cardiovascular Risk Factor,cardiovascular risk factor
+164627677,NCT04113213,"Behavior, Health","behavior, health"
+164627678,NCT04351789,COVID-19,covid-19
+164627679,NCT04351789,Mental Health,mental health
+164627680,NCT04351789,Psychoeducation,psychoeducation
+164627681,NCT04351789,Anxiety,anxiety
+164627682,NCT03986593,Neoplasm Metastasis,neoplasm metastasis
+164627683,NCT03986593,Thyroid Neoplasm,thyroid neoplasm
+164627684,NCT03986593,Pheochromocytoma,pheochromocytoma
+164627685,NCT03986593,Adrenal Neoplasm,adrenal neoplasm
+164627686,NCT03986593,Neuroendocrine Tumors,neuroendocrine tumors
+164627687,NCT03986593,Bone Metastases,bone metastases
+164627688,NCT00327067,Iron Deficiency,iron deficiency
+164627689,NCT01223742,Hepatic Encephalopathy,hepatic encephalopathy
+164627690,NCT00000156,Retinopathy of Prematurity,retinopathy of prematurity
+164627691,NCT01712724,Cerebrovascular Accident,cerebrovascular accident
+164627692,NCT01727024,Chronic Obstructive Pulmonary Disease (COPD),chronic obstructive pulmonary disease (copd)
+164627693,NCT03415542,Exercise,exercise
+164627694,NCT03198325,HIV Seropositivity,hiv seropositivity
+164627695,NCT05181189,Omega 3 Fatty Acids,omega 3 fatty acids
+164627696,NCT05181189,Dementia,dementia
+164627697,NCT02221713,Diverticulitis,diverticulitis
+164627698,NCT02221713,Diverticulosis,diverticulosis
+164627699,NCT02221713,Diverticular Disease,diverticular disease
+164627700,NCT01598129,Malignant Solid Tumour,malignant solid tumour
+164627701,NCT02861274,Syncope Recurrent,syncope recurrent
+164627702,NCT01929499,Colonic Neoplasms,colonic neoplasms
+164627703,NCT04497038,Advanced Adult Hepatocellular Carcinoma,advanced adult hepatocellular carcinoma
+164627704,NCT04909983,Contact Dermatitis Irritant,contact dermatitis irritant
+164627705,NCT04909983,Type 1 Diabetes,type 1 diabetes
+164627706,NCT02865707,Ulcerative Colitis,ulcerative colitis
+164627707,NCT04812262,Overweight and Obesity,overweight and obesity
+164627708,NCT04812262,Type2 Diabetes,type2 diabetes
+164627709,NCT04812262,NAFLD,nafld
+164627710,NCT02433080,Endometrial Neoplasms,endometrial neoplasms
+164627711,NCT02230319,Breast Cancer,breast cancer
+164627712,NCT04121663,Shoulder Instability Rotator Cuff Injury,shoulder instability rotator cuff injury
+164627713,NCT03347955,Parkinson Disease,parkinson disease
+164627714,NCT03347955,Surgery,surgery
+164627715,NCT02303132,Microscopic Colitis,microscopic colitis
+164627716,NCT00148707,Breast Cancer,breast cancer
+164627717,NCT00148707,Metastatic Breast Cancer,metastatic breast cancer
+164627718,NCT05024110,Down Syndrome,down syndrome
+164627719,NCT05024110,Vitamin D Deficiency,vitamin d deficiency
+164627720,NCT02609867,Intracranial Aneurysm,intracranial aneurysm
+164627721,NCT02204475,Hepatitis C,hepatitis c
+164627722,NCT00591318,Psychosis,psychosis
+164627723,NCT00591318,Schizophrenia,schizophrenia
+164627724,NCT00591318,Schizoaffective Disorder,schizoaffective disorder
+164627725,NCT04431921,Lung Neoplasm,lung neoplasm
+164627726,NCT04431921,Survivorship,survivorship
+164627727,NCT03138980,Irritable Bowel Syndrome,irritable bowel syndrome
+164627728,NCT03138980,Abdominal Pain,abdominal pain
+164627729,NCT00367367,Infertility,infertility
+164627730,NCT02460601,Functional Dyspepsia,functional dyspepsia
+164627731,NCT01917253,Complications,complications
+164627732,NCT04845711,Laparoscopic Cholecystectomy,laparoscopic cholecystectomy
+164627733,NCT04845711,Postoperative Analgesia,postoperative analgesia
+164627734,NCT04845711,Erector Spinae Plane Block,erector spinae plane block
+164627735,NCT04845711,Quadratus Lumborum Block,quadratus lumborum block
+164627736,NCT02586441,Anesthesia,anesthesia
+164627737,NCT02567604,Age Related Macular Degeneration,age related macular degeneration
+164627738,NCT06282133,Generalized Anxiety Disorder,generalized anxiety disorder
+164627739,NCT06282133,Adolescent - Emotional Problem,adolescent - emotional problem
+164627740,NCT00846950,Cognition,cognition
+164627741,NCT04022395,Coronary Disease,coronary disease
+164627742,NCT04135287,"Diabetes Mellitus, Type 2","diabetes mellitus, type 2"
+164627743,NCT02292069,Healthy,healthy
+164627744,NCT02163603,Developmental Dislocation of the Hip,developmental dislocation of the hip
+164627745,NCT02163603,Congenital Dislocation of Hip,congenital dislocation of hip
+164627746,NCT02163603,Residual Deformity,residual deformity
+165201743,NCT05079152,"Influenza, Human","influenza, human"
+164627747,NCT02163603,Reduction,reduction
+165201744,NCT05079152,"Pneumonia, Pneumococcal","pneumonia, pneumococcal"
+165201745,NCT05079152,COVID-19 Pneumonia,covid-19 pneumonia
+165393163,NCT04862260,Pancreatic Ductal Adenocarcinoma,pancreatic ductal adenocarcinoma
+165393164,NCT04862260,Pancreatic Cancer,pancreatic cancer
+164627748,NCT04073524,Stress,stress
+164627749,NCT04073524,Anxiety,anxiety
+164627750,NCT04073524,Depression,depression
+164627751,NCT04073524,Cardiac Disease,cardiac disease
+164627752,NCT04073524,Cancer,cancer
+164627753,NCT04073524,Diabetes,diabetes
+164627754,NCT04073524,Copd,copd
+164627755,NCT02499133,Focused Stress,focused stress
+164627756,NCT04688099,Sleep,sleep
+164627757,NCT04042090,Back Pain Lower Back Chronic,back pain lower back chronic
+164627758,NCT04042090,Quality of Life,quality of life
+164627759,NCT02420015,Schizophrenia,schizophrenia
+165201746,NCT05354427,Prostate Cancer,prostate cancer
+165393165,NCT04862260,Pancreas Cancer,pancreas cancer
+164627760,NCT02420015,Cigarette Smoking,cigarette smoking
+164627761,NCT00063440,Atherosclerosis,atherosclerosis
+164627762,NCT00063440,Cardiovascular Diseases,cardiovascular diseases
+164627763,NCT00063440,Heart Diseases,heart diseases
+164627764,NCT00063440,Carotid Artery Diseases,carotid artery diseases
+164627765,NCT00063440,Coronary Arteriosclerosis,coronary arteriosclerosis
+164627766,NCT00837317,Endothelial Dysfunction,endothelial dysfunction
+164627767,NCT00669123,Osteoarthritis,osteoarthritis
+164627768,NCT00669123,Psoriasis,psoriasis
+164627769,NCT00669123,Joint Diseases,joint diseases
+164627770,NCT00669123,Muskuloskeletal Diseases,muskuloskeletal diseases
+164627771,NCT00669123,Skin Diseases,skin diseases
+164627772,NCT04074161,Overweight,overweight
+164627773,NCT04074161,Obesity,obesity
+164627774,NCT01509885,Spinal Cord Injuries,spinal cord injuries
+164627775,NCT01509885,Muscle Spasticity,muscle spasticity
+164627776,NCT02193464,Idiopathic Chronic Inflammatory Bowel Disease,idiopathic chronic inflammatory bowel disease
+164627777,NCT04430595,Breast Cancer,breast cancer
+164627778,NCT00374829,Hypertension,hypertension
+164627779,NCT02317744,Binge Eating Disorder,binge eating disorder
+164627780,NCT01363349,Schizophrenia,schizophrenia
+165241880,NCT06491706,Biological Sex Diffrences,biological sex diffrences
+164627781,NCT01363349,Cognitive Effect on Schizophrenic Patients,cognitive effect on schizophrenic patients
+164627782,NCT04169932,Relapsed and Refractory B Cell Lymphoma,relapsed and refractory b cell lymphoma
+164627783,NCT04169932,Non-Hodgkin Lymphoma,non-hodgkin lymphoma
+164627784,NCT01024309,Osteoarthritis,osteoarthritis
+164627785,NCT03236155,Postoperative Pain,postoperative pain
+164627786,NCT05366868,"Diabetes Mellitus, Type 2","diabetes mellitus, type 2"
+164627787,NCT01745497,Autism Spectrum Disorder,autism spectrum disorder
+164627788,NCT01745497,Insomnia,insomnia
+164627789,NCT04997356,Anger,anger
+164627790,NCT04997356,Stress,stress
+164627791,NCT04997356,Aggression,aggression
+164627792,NCT04769700,"Breast Feeding, Exclusive","breast feeding, exclusive"
+164627793,NCT04769700,Post Partum Depression,post partum depression
+164627794,NCT04769700,Covid19,covid19
+164627795,NCT00277875,Cardiovascular Disease,cardiovascular disease
+164627796,NCT00710125,Advanced Solid Tumors - Phase 1 Population,advanced solid tumors - phase 1 population
+164627797,NCT03033550,HPV-Related Carcinoma,hpv-related carcinoma
+164627798,NCT06445452,Supplemental Nutrition Assistance Program Education,supplemental nutrition assistance program education
+164627799,NCT06445452,Bhutanese Refugee Adults,bhutanese refugee adults
+164627800,NCT02546700,Chronic Obstructive Pulmonary Disease,chronic obstructive pulmonary disease
+164627801,NCT01733303,Osteoporosis,osteoporosis
+165201747,NCT01589029,Proliferative Diabetic Retinopathy,proliferative diabetic retinopathy
+165201748,NCT00001432,Chronic Myeloid Leukemia,chronic myeloid leukemia
+164627802,NCT03725241,Healthy,healthy
+164627803,NCT02737891,Type 2 Diabetes Mellitus,type 2 diabetes mellitus
+164627804,NCT05952128,Sarcoma,sarcoma
+164627805,NCT04986592,Recurrent Laryngeal Nerve Palsy,recurrent laryngeal nerve palsy
+164627806,NCT04986592,Risk Factors of Vocal Cord Palsy,risk factors of vocal cord palsy
+164627807,NCT04986592,Neuromonitoring in Thyroid Surgery,neuromonitoring in thyroid surgery
+164627808,NCT03399396,HPV Vaccines,hpv vaccines
+164627809,NCT02366091,Coronary Artery Disease,coronary artery disease
+164627810,NCT03462511,Sickle Cell Disease,sickle cell disease
+164627811,NCT04642157,Suicide,suicide
+164627812,NCT05166837,Healthy,healthy
+164627813,NCT01325662,Alzheimer's Disease,alzheimer's disease
+164627814,NCT00042471,"Diabetes Mellitus, Type 1","diabetes mellitus, type 1"
+164627815,NCT00042471,"Diabetes Mellitus, Type 2","diabetes mellitus, type 2"
+164627816,NCT06012994,Cardiac Surgical Procedures,cardiac surgical procedures
+164627817,NCT03405233,End Stage Renal Disease,end stage renal disease
+164627818,NCT01741740,Chronic Pain,chronic pain
+164627819,NCT01741740,Ventral Hernia,ventral hernia
+164627820,NCT00165815,Dementia With Parkinson's Disease,dementia with parkinson's disease
+164627821,NCT05506228,Cerebral Palsy,cerebral palsy
+164627822,NCT05506228,Muscle,muscle
+164627823,NCT05506228,Muscle Contracture,muscle contracture
+164627824,NCT05506228,Muscle Spasticity,muscle spasticity
+164627825,NCT02857634,Urinary Bladder Neoplasm,urinary bladder neoplasm
+164627826,NCT01510470,Malocclusion; Displaced or Missing Teeth,malocclusion; displaced or missing teeth
+164627827,NCT02428283,Agitation,agitation
+164627828,NCT03948945,Photoaging,photoaging
+164627829,NCT03569345,"Carcinoma, Basal Cell","carcinoma, basal cell"
+164627830,NCT01988584,Cerebral Palsy,cerebral palsy
+164627831,NCT03826368,Traumatic Brain Injury,traumatic brain injury
+164627832,NCT06453434,Type 1 Diabetes,type 1 diabetes
+164627833,NCT05122702,Macula Edema,macula edema
+164627834,NCT01342237,Brain Tumors,brain tumors
+164627835,NCT05271500,Post Covid Syndrome,post covid syndrome
+164627836,NCT02113254,Age Macular Degeneration,age macular degeneration
+164627837,NCT04257188,Vitreoretinal Diseases,vitreoretinal diseases
+164627838,NCT01702493,Psoriasis,psoriasis
+165010393,NCT00346268,"Pain, Postoperative","pain, postoperative"
+165010394,NCT01548079,Non-alcoholic Fatty Liver Disease,non-alcoholic fatty liver disease
+165201749,NCT00001432,Healthy,healthy
+164627839,NCT04232332,Injury of Optic Nerve,injury of optic nerve
+164627840,NCT02895126,Infant Development,infant development
+164627841,NCT03890666,Asthma,asthma
+164627842,NCT01529138,Cancer,cancer
+164627843,NCT04459208,Aortic Valve Stenosis,aortic valve stenosis
+164627844,NCT03816709,Ultrasound Therapy; Complications,ultrasound therapy; complications
+164627845,NCT02925416,"Skin Diseases, Bacterial","skin diseases, bacterial"
+164627846,NCT04685239,"Dislocation, Hip","dislocation, hip"
+164627847,NCT05830617,Stroke,stroke
+164627848,NCT00586092,Solid Tumors,solid tumors
+164627849,NCT03838471,Chronic Shoulder Pain,chronic shoulder pain
+164627850,NCT03595228,Chordoma,chordoma
+164627851,NCT01639729,Pharmacokinetics,pharmacokinetics
+164627852,NCT06193122,Breast Cancer,breast cancer
+164627853,NCT02672527,Soft Tissue Sarcoma,soft tissue sarcoma
+164627854,NCT01298908,Venous Insufficiency,venous insufficiency
+164627855,NCT02811874,Diabetes,diabetes
+164627856,NCT03769610,Pregnancy Related,pregnancy related
+164627857,NCT03769610,Labor,labor
+164627858,NCT03769610,Induction,induction
+164627859,NCT03769610,Cervical Ripening,cervical ripening
+164627860,NCT06533995,Cataract,cataract
+164627861,NCT02036151,Dental Caries and Streptococcus Mutans Count,dental caries and streptococcus mutans count
+164627862,NCT01757990,Dental Caries,dental caries
+164627863,NCT02900989,Suicidal Ideation,suicidal ideation
+164627864,NCT00759564,Pneumonia,pneumonia
+164627865,NCT03629314,Opioid Use,opioid use
+165010395,NCT01548079,Morbid Obesity,morbid obesity
+165010396,NCT03190447,Occlusive Dressings,occlusive dressings
+164721840,NCT05984355,Aging,aging
+165201750,NCT00001432,Hematologic Neoplasm,hematologic neoplasm
+164627866,NCT00770419,Brain and Central Nervous System Tumors,brain and central nervous system tumors
+164627867,NCT00770419,Chronic Myeloproliferative Disorders,chronic myeloproliferative disorders
+164627868,NCT00770419,Depression,depression
+164627869,NCT00770419,Leukemia,leukemia
+164627870,NCT00770419,Lymphoma,lymphoma
+164627871,NCT00770419,Multiple Myeloma and Plasma Cell Neoplasm,multiple myeloma and plasma cell neoplasm
+164627872,NCT00770419,Myelodysplastic Syndromes,myelodysplastic syndromes
+164627873,NCT00770419,Myelodysplastic/Myeloproliferative Neoplasms,myelodysplastic/myeloproliferative neoplasms
+164627874,NCT00770419,Psychosocial Effects of Cancer and Its Treatment,psychosocial effects of cancer and its treatment
+164627875,NCT00770419,"Unspecified Adult Solid Tumor, Protocol Specific","unspecified adult solid tumor, protocol specific"
+164627876,NCT01860183,Kidney Transplantation,kidney transplantation
+164627877,NCT01860183,Kidney Failure,kidney failure
+164627878,NCT01980589,Multiple Myeloma,multiple myeloma
+164627879,NCT00120757,Osteoporosis,osteoporosis
+164627880,NCT00120757,HIV Infections,hiv infections
+164627881,NCT02607748,Coronary Artery Disease,coronary artery disease
+164627882,NCT02607748,Atherosclerotic Plaque,atherosclerotic plaque
+164627883,NCT05120557,Liver Diseases,liver diseases
+164627884,NCT05120557,Liver Cirrhosis,liver cirrhosis
+164627885,NCT05120557,NASH - Nonalcoholic Steatohepatitis,nash - nonalcoholic steatohepatitis
+164627886,NCT05120557,Non-Alcoholic Fatty Liver Disease,non-alcoholic fatty liver disease
+164627887,NCT05120557,"Fibrosis, Liver","fibrosis, liver"
+164627888,NCT05120557,Steatosis of Liver,steatosis of liver
+164627889,NCT03219658,Child Obesity,child obesity
+164627890,NCT02321670,Urethral Stricture,urethral stricture
+164627891,NCT03632486,Dengue,dengue
+164627892,NCT03632486,Fever,fever
+164627893,NCT02675556,Treatment Resistant Depression,treatment resistant depression
+164627894,NCT00965965,Colorectal Neoplasms,colorectal neoplasms
+164627895,NCT00356512,Hypoparathyroidism,hypoparathyroidism
+164627896,NCT02188901,Hepatocellular Carcinoma (HCC),hepatocellular carcinoma (hcc)
+164627897,NCT05395793,Urinary Incontinence,urinary incontinence
+164627898,NCT03273218,Acute Coronary Syndrome,acute coronary syndrome
+164627899,NCT02691871,Lung Adenocarcinoma,lung adenocarcinoma
+164627900,NCT03534479,Common Variable Immunodeficiency,common variable immunodeficiency
+164627901,NCT00607490,Vulvodynia,vulvodynia
+164627902,NCT01062178,Renal Cell Carcinoma,renal cell carcinoma
+164627903,NCT02797002,Neck Pain,neck pain
+164627904,NCT05916443,Colon Cancer,colon cancer
+164627905,NCT03998839,Malaria in Pregnancy,malaria in pregnancy
+164627906,NCT00830908,Seborrheic Dermatitis,seborrheic dermatitis
+164627907,NCT05986201,Fibrin Sealant,fibrin sealant
+164627908,NCT05986201,Haemostasis,haemostasis
+164627909,NCT03316495,Tobacco Use Cessation,tobacco use cessation
+164627910,NCT00435045,Hypertriglyceridemia,hypertriglyceridemia
+164627911,NCT03845439,Time of Death,time of death
+164627912,NCT02120040,Hemangioblastoma (HB) of the Central Nervous System (CNS),hemangioblastoma (hb) of the central nervous system (cns)
+164627913,NCT03469778,Stroke,stroke
+164627914,NCT02835079,Duchenne Muscular Dystrophy,duchenne muscular dystrophy
+164627915,NCT02166944,Amyotrophic Lateral Sclerosis,amyotrophic lateral sclerosis
+164627916,NCT02166944,ALS Functional Ration Scale,als functional ration scale
+164627917,NCT02166944,TAR-DNA-binding Protein-43,tar-dna-binding protein-43
+164627918,NCT02166944,Tamoxifen,tamoxifen
+164627919,NCT02166944,mTOR,mtor
+164627920,NCT00308464,Growth Hormone Deficiency,growth hormone deficiency
+164627921,NCT01481532,Cancer,cancer
+164627922,NCT05642650,Heart Failure,heart failure
+164627923,NCT05062954,Abdominal Obesity,abdominal obesity
+164627924,NCT04685174,Graft Failure,graft failure
+164627925,NCT00234247,Lung Diseases,lung diseases
+164627926,NCT00234247,Bronchopulmonary Dysplasia,bronchopulmonary dysplasia
+164627927,NCT00234247,Premature Birth,premature birth
+164627928,NCT00234247,Developmental Disabilities,developmental disabilities
+164627929,NCT00234247,Developmental Delay Disorders,developmental delay disorders
+164627930,NCT01780220,Biochemically-relapsing Prostate Adenocarcinoma Following Radical Prostatectomy,biochemically-relapsing prostate adenocarcinoma following radical prostatectomy
+164627931,NCT01071707,Idiopathic Pulmonary Fibrosis,idiopathic pulmonary fibrosis
+164627932,NCT01757145,Hematological Malignancy,hematological malignancy
+164627933,NCT01757145,Bone Marrow Failure Syndrome,bone marrow failure syndrome
+164627934,NCT06243562,Fibromyalgia,fibromyalgia
+165010397,NCT03190447,Nursing,nursing
+165010398,NCT03190447,Knee Surgery,knee surgery
+165010399,NCT03190447,Hip Surgery,hip surgery
+165010400,NCT03584568,Alzheimer Dementia,alzheimer dementia
+164627935,NCT03489746,Chronic Obstructive Pulmonary Disease,chronic obstructive pulmonary disease
+164627936,NCT02868827,Vitamin D Deficiency,vitamin d deficiency
+164627937,NCT02868827,Critical Illness,critical illness
+164627938,NCT00406562,Tetanus,tetanus
+164627939,NCT00406562,Diphtheria,diphtheria
+164627940,NCT00406562,Acellular Pertussis,acellular pertussis
+164627941,NCT00447785,Alcoholism,alcoholism
+165010401,NCT00894153,Neoplasms,neoplasms
+165010402,NCT03788083,Breast Cancer Female,breast cancer female
+165010403,NCT03788083,Early-stage Breast Cancer,early-stage breast cancer
+165010404,NCT03527368,PreDiabetes,prediabetes
+165010405,NCT03527368,Obesity,obesity
+164627942,NCT02160041,Solid Tumor,solid tumor
+164627943,NCT02160041,Hematologic Malignancies,hematologic malignancies
+164627944,NCT02402998,Primacy Immune Thrombocytopenia,primacy immune thrombocytopenia
+164627945,NCT05483218,Carpal Tunnel Syndrome,carpal tunnel syndrome
+165010406,NCT00688454,Hypercholesteremia,hypercholesteremia
+164627946,NCT05034822,Atopic Dermatitis,atopic dermatitis
+164627947,NCT02389556,Obesity,obesity
+164627948,NCT00380042,Depression,depression
+164627949,NCT00380042,Depressive Disorder,depressive disorder
+164627950,NCT02668211,Joint Disease,joint disease
+164627951,NCT02668211,Osteoarthritis,osteoarthritis
+164627952,NCT04379128,Epilepsy,epilepsy
+164627953,NCT01906996,Wrist Osteoarthritis,wrist osteoarthritis
+164627954,NCT00386919,High Grade Gliomas,high grade gliomas
+164627955,NCT03868644,HIV/AIDS,hiv/aids
+164627956,NCT03868644,HSV-2 Infection,hsv-2 infection
+164627957,NCT05788471,Median Nerve Entrapment,median nerve entrapment
+164627958,NCT05788471,Carpal Tunnel Syndrome,carpal tunnel syndrome
+164627959,NCT03472170,SEPSIS SYNDROME,sepsis syndrome
+164627960,NCT00763698,Heart Failure,heart failure
+164627961,NCT04332861,Kidney Stone,kidney stone
+164627962,NCT04332861,Kidney Calculi,kidney calculi
+164627963,NCT04332861,Urinary Tract Obstruction,urinary tract obstruction
+164627964,NCT04332861,Infection,infection
+164627965,NCT04332861,Sepsis,sepsis
+164627966,NCT03122951,Trying to Conceive Population,trying to conceive population
+164627967,NCT00540410,Malaria,malaria
+164627968,NCT06001359,Radiculopathy,radiculopathy
+164627969,NCT06001359,Elderly,elderly
+164627970,NCT03367468,Plantar Fascitis,plantar fascitis
+164627971,NCT03367468,Pain,pain
+164627972,NCT04981613,Diabetic Nephropathy,diabetic nephropathy
+164627973,NCT04316832,ADHD,adhd
+164627974,NCT01600625,Meibomian Gland Dysfunction,meibomian gland dysfunction
+164627975,NCT05457621,Acne Vulgaris,acne vulgaris
+164627976,NCT04375540,Gummy Smile,gummy smile
+164627977,NCT04375540,Orthodontic Treatment,orthodontic treatment
+164627978,NCT00006409,Cardiovascular Diseases,cardiovascular diseases
+164627979,NCT00006409,Heart Diseases,heart diseases
+164627980,NCT00006409,Obesity,obesity
+164627981,NCT00638183,"Pulmonary Disease, Chronic Obstructive","pulmonary disease, chronic obstructive"
+164627982,NCT04243382,Autistic Spectrum Disorder,autistic spectrum disorder
+164627983,NCT02161692,Testicular Neoplasms,testicular neoplasms
+164627984,NCT02161692,Germ Cell Tumors,germ cell tumors
+164627985,NCT03347370,"Multiple Sclerosis, Relapsing-Remitting","multiple sclerosis, relapsing-remitting"
+164627986,NCT01569217,Respiratory Failure,respiratory failure
+164627987,NCT01569217,Neuromuscular Disorder,neuromuscular disorder
+164627988,NCT01569217,Diaphragmatic Paralysis,diaphragmatic paralysis
+164627989,NCT05815979,Advanced Practice Nursing,advanced practice nursing
+164627990,NCT02888496,Polymyalgia Rheumatica,polymyalgia rheumatica
+164627991,NCT02743611,Acute Myeloid Leukemia,acute myeloid leukemia
+164627992,NCT02743611,Myelodysplastic Syndrome,myelodysplastic syndrome
+164627993,NCT02743611,Uveal Melanoma,uveal melanoma
+164627994,NCT01433289,HIV Infection,hiv infection
+164627995,NCT03433612,Pregnancy Related,pregnancy related
+164627996,NCT05481476,Pancreatic Neoplasms,pancreatic neoplasms
+164627997,NCT00470834,"Neoplasms, Prostate","neoplasms, prostate"
+164627998,NCT06333600,Dermatology,dermatology
+164627999,NCT06333600,Female Pattern Baldness,female pattern baldness
+164628000,NCT03812237,Hallux Valgus,hallux valgus
+165010407,NCT02785510,Parkinson's Disease,parkinson's disease
+165010408,NCT00081406,Anxiety,anxiety
+165010409,NCT05738031,Lung; Node,lung; node
+165010410,NCT06063785,Cystic Fibrosis,cystic fibrosis
+165010411,NCT06063785,Liver Fibrosis,liver fibrosis
+165010412,NCT06063785,Gastrointestinal Transport Disorder,gastrointestinal transport disorder
+165010413,NCT06063785,Dios,dios
+165010414,NCT01149356,Estrogen Receptor Positive,estrogen receptor positive
+165010415,NCT01149356,HER2/Neu Negative,her2/neu negative
+165010416,NCT01149356,Male Breast Carcinoma,male breast carcinoma
+165010417,NCT01149356,Recurrent Breast Carcinoma,recurrent breast carcinoma
+165010418,NCT01149356,Stage IIIB Breast Cancer,stage iiib breast cancer
+165010419,NCT01149356,Stage IIIC Breast Cancer,stage iiic breast cancer
+165010420,NCT01149356,Stage IV Breast Cancer,stage iv breast cancer
+165010421,NCT03368469,Depressive Disorder,depressive disorder
+165010422,NCT03368469,Generalized Epilepsy,generalized epilepsy
+165010423,NCT05596838,Intracorneal Ring,intracorneal ring
+165010424,NCT05596838,Keratoconus,keratoconus
+165010425,NCT05596838,Laser,laser
+164628001,NCT05094518,Prenatal Care,prenatal care
+164628002,NCT05094518,Pregnancy,pregnancy
+164628003,NCT03662581,Anxiety,anxiety
+164628004,NCT03662581,Depression,depression
+164628005,NCT03662581,Sleep Initiation and Maintenance Disorders,sleep initiation and maintenance disorders
+164628006,NCT03662581,Social Isolation,social isolation
+164628007,NCT06405308,Rectal Cancer,rectal cancer
+164628008,NCT06405308,Robotic Surgery,robotic surgery
+164628009,NCT06405308,Natural Orifice Specimen Extraction Surgery,natural orifice specimen extraction surgery
+164628010,NCT03666156,Obesity,obesity
+164628011,NCT03820440,Hemodynamic Instability,hemodynamic instability
+165010426,NCT01206543,Craniopharyngioma,craniopharyngioma
+165201751,NCT00001432,Lymphoma,lymphoma
+165201752,NCT02639819,Intracerebral Hemorrhage,intracerebral hemorrhage
+165201753,NCT02006407,"Brain Tumor, Primary","brain tumor, primary"
+165201754,NCT00769678,Heart Failure,heart failure
+165201755,NCT04322227,Parkinson Disease,parkinson disease
+165201756,NCT04322227,Healthy,healthy
+164628012,NCT03820440,Surgery,surgery
+164628013,NCT03820440,Fluid Overload,fluid overload
+164628014,NCT04590833,"Diabetes Mellitus, Type 2","diabetes mellitus, type 2"
+164628015,NCT05152225,"Endocarditis, Bacterial","endocarditis, bacterial"
+164819156,NCT04903483,Anesthesia,anesthesia
+165010427,NCT01932567,Respiratory Disease,respiratory disease
+164628016,NCT05152225,"Aneurysm, Intracranial Mycotic","aneurysm, intracranial mycotic"
+164628017,NCT04161326,Refractive Errors,refractive errors
+164628018,NCT04161326,Myopia (Disorder),myopia (disorder)
+164628019,NCT02744950,Scar,scar
+164628020,NCT02147119,Atherosclerosis,atherosclerosis
+164628021,NCT05605951,Demyelinating Diseases,demyelinating diseases
+164628022,NCT05605951,Multiple Sclerosis,multiple sclerosis
+164628023,NCT05605951,Neuromyelitis Optica Spectrum Disorder Attack,neuromyelitis optica spectrum disorder attack
+164628024,NCT05605951,Myelin Oligodendrocyte Glycoprotein Antibody-associated Disease,myelin oligodendrocyte glycoprotein antibody-associated disease
+164628025,NCT05605951,Optic Neuritis,optic neuritis
+164628026,NCT03554811,ICU Acquired Weakness,icu acquired weakness
+164628027,NCT05661747,Snoring,snoring
+164628028,NCT05661747,"Apnea, Obstructive","apnea, obstructive"
+164628029,NCT05661747,Upper Airway Resistance Syndrome,upper airway resistance syndrome
+164628030,NCT05661747,Sleep-Disordered Breathing,sleep-disordered breathing
+164628031,NCT04744090,"Respiratory Distress Syndrome, Adult","respiratory distress syndrome, adult"
+164628032,NCT02310334,Body Temperature Changes,body temperature changes
+164628033,NCT03021993,Oral Cavity SCC,oral cavity scc
+164628034,NCT03058328,Neuroinflammation,neuroinflammation
+164628035,NCT02313961,ST Elevation Myocardial Infarction,st elevation myocardial infarction
+164628036,NCT04122651,Cataract,cataract
+164628037,NCT04122651,Astigmatism,astigmatism
+164628038,NCT04122651,Cornea,cornea
+164628039,NCT04229732,Alcohol Intoxication,alcohol intoxication
+164628040,NCT03665727,Acute Pain,acute pain
+164628041,NCT06383312,Primary Dysmenorrhea,primary dysmenorrhea
+164628042,NCT02065258,Asthma,asthma
+164628043,NCT01125488,Endometriosis,endometriosis
+164628044,NCT03555019,Immature Infant,immature infant
+164628045,NCT03555019,Essential Fatty Acid Deficiency,essential fatty acid deficiency
+164628046,NCT05243732,Visual Impairment,visual impairment
+164628047,NCT05243732,Low Vision,low vision
+164628048,NCT05243732,Depression,depression
+164628049,NCT05243732,Anxiety,anxiety
+164628050,NCT05243732,Stress,stress
+164628051,NCT05243732,Emotional Adjustment,emotional adjustment
+164628052,NCT01383343,Recurrent Colon Carcinoma,recurrent colon carcinoma
+164628053,NCT01383343,Recurrent Rectal Carcinoma,recurrent rectal carcinoma
+164628054,NCT01383343,Stage IVA Colon Cancer,stage iva colon cancer
+164628055,NCT01383343,Stage IVA Rectal Cancer,stage iva rectal cancer
+164628056,NCT01383343,Stage IVB Colon Cancer,stage ivb colon cancer
+164628057,NCT01383343,Stage IVB Rectal Cancer,stage ivb rectal cancer
+164628058,NCT05071768,Depression,depression
+164628059,NCT05071768,Anxiety,anxiety
+164628060,NCT05071768,Quality of Life,quality of life
+164628061,NCT05071768,Acceptance Processes,acceptance processes
+164628062,NCT00010452,Lymphatic Malformations,lymphatic malformations
+164628063,NCT03279640,Stroke,stroke
+164628064,NCT03279640,Motor Disorder,motor disorder
+164628065,NCT04117867,Perioperative Complication,perioperative complication
+164628066,NCT04117867,Intraoperative Hypotension,intraoperative hypotension
+164628067,NCT04343235,"Hypertension, Pregnancy-Induced","hypertension, pregnancy-induced"
+164628068,NCT00552747,Coronary Heart Disease,coronary heart disease
+164628069,NCT00552747,Hyperlipidemia,hyperlipidemia
+164628070,NCT01763996,Coronary Artery Disease,coronary artery disease
+164628071,NCT00226759,Knee Injuries,knee injuries
+164628072,NCT01098643,"Unspecified Adult Solid Tumor, Protocol Specific","unspecified adult solid tumor, protocol specific"
+164628073,NCT06521528,Gastric Cancer,gastric cancer
+164628074,NCT00620529,Polycystic Ovary Syndrome,polycystic ovary syndrome
+164628075,NCT00117494,Hyperlipidemia,hyperlipidemia
+164628076,NCT00117494,HIV Infections,hiv infections
+164628077,NCT00220129,Oesophageal Carcinoma,oesophageal carcinoma
+164628078,NCT02246413,Depression,depression
+164628079,NCT02246413,Obesity,obesity
+164628080,NCT04991051,Fallopian Tube Cancer,fallopian tube cancer
+164628081,NCT06035419,Breastfeeding,breastfeeding
+164628082,NCT06035419,Immigrant,immigrant
+164628083,NCT05243693,Relapsed/Refractory Classical Hodgkin Lymphoma,relapsed/refractory classical hodgkin lymphoma
+164628084,NCT01630538,Antibody Mediated Rejection,antibody mediated rejection
+164628085,NCT00568386,Dry Eye,dry eye
+164628086,NCT06234241,Heart Chambers,heart chambers
+164628087,NCT02410343,Growth Hormone Deficiency,growth hormone deficiency
+164628088,NCT00294619,Pituitary Disorders,pituitary disorders
+165393166,NCT04862260,Metastatic Cancer,metastatic cancer
+164628089,NCT00294619,Adult Growth Hormone Deficiency,adult growth hormone deficiency
+165010428,NCT00323336,Bone Turnover Markers,bone turnover markers
+164628090,NCT06033755,Exercise Induced Laryngeal Obstruction (EILO),exercise induced laryngeal obstruction (eilo)
+164628091,NCT06171477,Mechanical Ventilation,mechanical ventilation
+164628092,NCT06171477,Atelectasis,atelectasis
+164628093,NCT06171477,Distribution of Ventilation,distribution of ventilation
+164628094,NCT01572987,Barrett's Esophagus,barrett's esophagus
+164628095,NCT01572987,Esophageal Neoplasms,esophageal neoplasms
+164628096,NCT02236117,Healthy,healthy
+164628097,NCT01442844,Impaired Wound Healing,impaired wound healing
+164628098,NCT05368701,Self-harm,self-harm
+164628099,NCT02466659,Intermittent Exotropia,intermittent exotropia
+164628100,NCT02646371,Shigellosis,shigellosis
+165010429,NCT00323336,Osteoporosis,osteoporosis
+164628101,NCT04812600,Cardiovascular Diseases,cardiovascular diseases
+164628102,NCT04812600,Vascular Stiffness,vascular stiffness
+164628103,NCT04812600,Endothelial Dysfunction,endothelial dysfunction
+164628104,NCT05744440,Acute Myeloid Leukemia,acute myeloid leukemia
+165010430,NCT05968547,Glaucoma,glaucoma
+164628105,NCT03018483,Weaning From Mechanical Ventilation,weaning from mechanical ventilation
+164628106,NCT02917564,Glaucoma,glaucoma
+164628107,NCT02917564,Choroidal Effusions,choroidal effusions
+164628108,NCT00781885,Pulmonary Arterial Hypertension,pulmonary arterial hypertension
+164628109,NCT02108678,Migraine,migraine
+164628110,NCT02108678,Depression,depression
+164628111,NCT01755026,Cesarean Delivery,cesarean delivery
+164628112,NCT01755026,Wound Infection,wound infection
+164628113,NCT01755026,Obesity,obesity
+164628114,NCT01106716,Postherpetic Neuralgia,postherpetic neuralgia
+164628115,NCT04530760,Critical Illness,critical illness
+164628116,NCT04530760,"Cirrhosis, Liver","cirrhosis, liver"
+164628117,NCT00194649,Contraception,contraception
+164628118,NCT01629225,Essential Hypertension,essential hypertension
+164628119,NCT05484700,Long COVID-19,long covid-19
+164628120,NCT01142804,Physical Activity,physical activity
+164628121,NCT04954651,SARS-CoV2 Infection,sars-cov2 infection
+164628122,NCT04954651,Vaccine Reaction,vaccine reaction
+164628123,NCT00577616,Ruptured Aorta-iliac Aneurysms,ruptured aorta-iliac aneurysms
+164628124,NCT04802668,Haemodynamics,haemodynamics
+164628125,NCT04802668,Fluid Responsiveness,fluid responsiveness
+164628126,NCT04802668,Pulse Pressure Variation,pulse pressure variation
+164628127,NCT03712085,Brain Ischemia,brain ischemia
+164628128,NCT03712085,Hemiplegic Patients With Stroke,hemiplegic patients with stroke
+164628129,NCT03712085,Image Science,image science
+164628130,NCT03712085,Electrophysiology of Neuromuscular,electrophysiology of neuromuscular
+164628131,NCT03712085,Abdominal Acupuncture,abdominal acupuncture
+164628132,NCT03989505,Contrast-induced Nephropathy,contrast-induced nephropathy
+164628133,NCT03989505,Acute Kidney Injury,acute kidney injury
+164628134,NCT03989505,Coronary Artery Disease,coronary artery disease
+164628135,NCT03031002,Specific Phobia,specific phobia
+164628136,NCT06374043,"Diabetes Mellitus, Type 2","diabetes mellitus, type 2"
+164628137,NCT06374043,Diabetes Mellitus Type 2 With Proteinuria,diabetes mellitus type 2 with proteinuria
+164628138,NCT06374043,Diabetes Mellitus,diabetes mellitus
+164628139,NCT06374043,Diabetes,diabetes
+164628140,NCT06374043,Diabetes Complications,diabetes complications
+164628141,NCT06374043,Albuminuria,albuminuria
+164628142,NCT06374043,Chronic Kidney Diseases,chronic kidney diseases
+164628143,NCT06374043,Chronic Kidney Disease Due to Type 2 Diabetes Mellitus,chronic kidney disease due to type 2 diabetes mellitus
+164628144,NCT06374043,CKD,ckd
+164628145,NCT06374043,Proteinuria,proteinuria
+164628146,NCT03653559,Overweight and Obesity,overweight and obesity
+164628147,NCT01646333,Parkinson's Disease,parkinson's disease
+164628148,NCT01646333,Mild Cognitive Impairment,mild cognitive impairment
+164628149,NCT02547961,Breast Cancer,breast cancer
+164628150,NCT05728099,Parkinson Disease,parkinson disease
+164628151,NCT04231370,NK/T Cell Lymphoma Nos,nk/t cell lymphoma nos
+164628152,NCT03291093,Atherosclerosis,atherosclerosis
+164628153,NCT05286645,Transcranial Direct Current Stimulation,transcranial direct current stimulation
+164628154,NCT05286645,Functional Magnetic Resonance Imaging,functional magnetic resonance imaging
+164628155,NCT05286645,Depressive Disorder,depressive disorder
+164628156,NCT03878641,Literacy-language Intervention,literacy-language intervention
+164628157,NCT03754439,Prematurity,prematurity
+164628158,NCT03754439,Transfer Injury,transfer injury
+164628159,NCT03754439,Brain Injuries,brain injuries
+164628160,NCT03754439,Intraventricular Hemorrhage,intraventricular hemorrhage
+164628161,NCT03754439,Vibration; Exposure,vibration; exposure
+164628162,NCT03754439,Noise Exposure,noise exposure
+164628163,NCT02184624,"Pulmonary Disease, Chronic Obstructive","pulmonary disease, chronic obstructive"
+164628164,NCT02047721,Obesity,obesity
+164628165,NCT03071250,Knee Osteoarthritis,knee osteoarthritis
+164628166,NCT03071250,Hip Osteoarthritis,hip osteoarthritis
+164628167,NCT03071250,Knee Arthritis,knee arthritis
+164628168,NCT03071250,Hip Arthritis,hip arthritis
+164628169,NCT01700387,Chronic Migraine,chronic migraine
+164628170,NCT06092814,Stroke,stroke
+164628171,NCT06092814,"Aphasia, Acquired","aphasia, acquired"
+165010431,NCT02050152,Amnesia,amnesia
+164628172,NCT06092814,Aphasia,aphasia
+164628173,NCT02034409,"Osteoarthritis, Degenerative","osteoarthritis, degenerative"
+164628174,NCT06020872,"Nutrition, Healthy","nutrition, healthy"
+164628175,NCT00117052,Secondary Hyperparathyroidism,secondary hyperparathyroidism
+164628176,NCT00117052,End Stage Renal Disease,end stage renal disease
+164628177,NCT04986358,Hallux Valgus,hallux valgus
+165010432,NCT00831285,Healthy,healthy
+164628178,NCT00895102,HCV Infection,hcv infection
+164628179,NCT05661084,Dementia,dementia
+164628180,NCT05661084,Memory Loss,memory loss
+164628181,NCT05661084,Alzheimer Disease,alzheimer disease
+164628182,NCT05661084,Executive Dysfunction,executive dysfunction
+164628183,NCT05661084,Mobility Limitation,mobility limitation
+164628184,NCT03417713,Interventional Vascular Conditions,interventional vascular conditions
+164628185,NCT00266786,Postoperative Pain,postoperative pain
+164628186,NCT01798160,Hepatocellular Carcinoma,hepatocellular carcinoma
+165010433,NCT03457038,Septic Shock,septic shock
+164628187,NCT05977244,Postprandial Lipemia,postprandial lipemia
+164628188,NCT05977244,Postprandial Glycemia,postprandial glycemia
+164628189,NCT05977244,Gastric Emptying,gastric emptying
+164628190,NCT00329524,Tinnitus,tinnitus
+164628191,NCT04363788,Cardiac Arrest,cardiac arrest
+164628192,NCT04363788,Needle Stick,needle stick
+165010434,NCT00001962,Aplastic Anemia,aplastic anemia
+165010435,NCT00001962,Pure Red Cell Aplasia,pure red cell aplasia
+165010436,NCT00001962,Diamond Blackfan Anemia,diamond blackfan anemia
+164628193,NCT04363788,Injuries,injuries
+164628194,NCT04363788,Glowe,glowe
+164628195,NCT00294086,Chronic Heart Failure,chronic heart failure
+164628196,NCT02551042,Systemic Sclerosis,systemic sclerosis
+164628197,NCT02569099,Stroke,stroke
+164628198,NCT00852488,Congenital Heart Surgery,congenital heart surgery
+164628199,NCT02365233,Type II Diabetes,type ii diabetes
+164628200,NCT02365233,Nonalcoholic Fatty Liver,nonalcoholic fatty liver
+164628201,NCT04783558,Neonatal Abstinence Syndrome,neonatal abstinence syndrome
+164628202,NCT04783558,Opioid-use Disorder,opioid-use disorder
+164628203,NCT02270944,"Infections, Streptococcal","infections, streptococcal"
+164628204,NCT02270944,Streptococcal Infections,streptococcal infections
+164628205,NCT02102659,Malnutrition,malnutrition
+164628206,NCT02459288,Acute Coronary Syndrome,acute coronary syndrome
+164628207,NCT02459288,Chronic Kidney Disease,chronic kidney disease
+164628208,NCT02459288,End-Stage Renal Disease,end-stage renal disease
+164628209,NCT01930578,HEALTHY,healthy
+164628210,NCT05330247,Diabetes Mellitus Type 2,diabetes mellitus type 2
+164628211,NCT05330247,Overweight and Obesity,overweight and obesity
+164628212,NCT03523598,Medicaments Substances in Therapeutic Use,medicaments substances in therapeutic use
+164628213,NCT00795119,Intracranial Hemorrhage,intracranial hemorrhage
+164628214,NCT00361933,Giant Lymph Node Hyperplasia,giant lymph node hyperplasia
+164628215,NCT01622309,Obesity,obesity
+164628216,NCT01622309,"Obesity, Abdominal","obesity, abdominal"
+164628217,NCT05807165,Brain Oligometastases,brain oligometastases
+164628218,NCT03456882,Amyotrophic Lateral Sclerosis,amyotrophic lateral sclerosis
+164628219,NCT01144299,Influenza,influenza
+164628220,NCT04891393,Healthy,healthy
+164628221,NCT04429477,Intracranial Hypertension,intracranial hypertension
+164628222,NCT04429477,Cerebral Circulatory Failure,cerebral circulatory failure
+164628223,NCT04287127,Brachymetatarsia,brachymetatarsia
+164628224,NCT01587976,Metastasis,metastasis
+164628225,NCT01587976,Quality of Life,quality of life
+164628226,NCT01055067,Non-CNS Germ Cell Tumors (Seminomas and Nonseminomas),non-cns germ cell tumors (seminomas and nonseminomas)
+164628227,NCT05042869,Eating Disorders,eating disorders
+164628228,NCT05032924,Rotator Cuff Lesions,rotator cuff lesions
+164628229,NCT05306119,Rehabilitation,rehabilitation
+164628230,NCT05306119,Low Back Pain,low back pain
+164628231,NCT05306119,Revascularization,revascularization
+164628232,NCT06110637,Healthy Volunteers,healthy volunteers
+164628233,NCT00831493,Pancreatic Cancer,pancreatic cancer
+164628234,NCT02980575,Chronic Obstructive Pulmonary Disease,chronic obstructive pulmonary disease
+164628235,NCT00243841,"Carcinoma, Hepatocellular","carcinoma, hepatocellular"
+164628236,NCT05543993,COVID-19,covid-19
+164628237,NCT03707704,"Spinal Cord Injury, Acute","spinal cord injury, acute"
+164628238,NCT00027989,Breast Cancer,breast cancer
+164628239,NCT01808092,Nosocomial Pneumonia (NP),nosocomial pneumonia (np)
+164628240,NCT01808092,Ventilator-associated Pneumonia (VAP),ventilator-associated pneumonia (vap)
+164628241,NCT00457106,Major Depression With Panic Attacks,major depression with panic attacks
+164628242,NCT00457106,Panic Disorder,panic disorder
+164628243,NCT03332849,Type1 Diabetes Mellitus,type1 diabetes mellitus
+164628244,NCT03332849,Type2 Diabetes Mellitus,type2 diabetes mellitus
+164628245,NCT00739089,Hemodynamics,hemodynamics
+164628246,NCT00739089,Renal Dialysis,renal dialysis
+164628247,NCT00739089,Sepsis,sepsis
+164628248,NCT00739089,Shock,shock
+164628249,NCT03048383,Facial Nerve Injuries,facial nerve injuries
+164628250,NCT03048383,Facial Paresis Associated With Facial Nerve Dysfunction,facial paresis associated with facial nerve dysfunction
+164628251,NCT03048383,Facial Asymmetry,facial asymmetry
+164628252,NCT03048383,Synkinesis,synkinesis
+164628253,NCT01974063,Smoking,smoking
+164628254,NCT01974063,Smoking Cessation,smoking cessation
+165201757,NCT01422720,Epilepsy,epilepsy
+165201758,NCT01001676,Renal Failure,renal failure
+165201759,NCT02686489,Respiratory Failure,respiratory failure
+165201760,NCT02226692,Chronic Low Back Pain,chronic low back pain
+165201761,NCT02226692,Mechanical Low Back Pain,mechanical low back pain
+165201762,NCT02037373,Coagulopathy,coagulopathy
+165201763,NCT02037373,Endstage Liver Disease,endstage liver disease
+165201764,NCT02228031,Social Cognition,social cognition
+165201765,NCT02228031,Expressed Emotion,expressed emotion
+164628255,NCT01410916,Shiga-like Toxin-producing Escherichia Coli,shiga-like toxin-producing escherichia coli
+164628256,NCT05887596,Fear of Pain,fear of pain
+164628257,NCT05887596,Pain,pain
+164628258,NCT05887596,Pain Management,pain management
+164628259,NCT05887596,Patient Education,patient education
+164628260,NCT03390114,HIV/AIDS,hiv/aids
+164628261,NCT03390114,Insomnia,insomnia
+164628262,NCT03373617,Renal Stone,renal stone
+164628263,NCT01868542,Diabetes,diabetes
+164628264,NCT01868542,"Diabetes Mellitus, Type 2","diabetes mellitus, type 2"
+164628265,NCT01455402,"Respiratory Syncytial Virus, Chronic Obstructive Pulmonary Disease, Congestive Heart Failure","respiratory syncytial virus, chronic obstructive pulmonary disease, congestive heart failure"
+164628266,NCT01317459,Diabetes,diabetes
+164628267,NCT01303224,Irritable Bowel Syndrome With Diarrhea,irritable bowel syndrome with diarrhea
+164628268,NCT02269189,Cystic Fibrosis,cystic fibrosis
+165201766,NCT04562025,Diabetic Nephropathy,diabetic nephropathy
+165201767,NCT02221622,Mild Cognitive Impairment,mild cognitive impairment
+165201768,NCT02221622,Alzheimer Disease,alzheimer disease
+164628269,NCT04075812,Spinal Cord Injury at C4-C6 Level,spinal cord injury at c4-c6 level
+164628270,NCT01660958,Nutritional Deficiencies,nutritional deficiencies
+164628271,NCT01660958,Developmental Delay,developmental delay
+164628272,NCT01794143,Type 2 Diabetes,type 2 diabetes
+164628273,NCT01794143,Comparative Effectiveness of Glycemia-lowering Medications,comparative effectiveness of glycemia-lowering medications
+164628274,NCT01124864,Non-small-cell Lung Cancer,non-small-cell lung cancer
+164628275,NCT04012164,Zoonotic Disease,zoonotic disease
+164628276,NCT03933891,Liver Cirrhosis,liver cirrhosis
+164628277,NCT03933891,Transjugular Intrahepatic Portosystemic Shunt (TIPS),transjugular intrahepatic portosystemic shunt (tips)
+164628278,NCT03933891,Functional Magnetic Resonance Imaging,functional magnetic resonance imaging
+165010437,NCT05916573,Renal Impairment,renal impairment
+165010438,NCT02707731,Newborn Preterm,newborn preterm
+165010439,NCT02340767,Dental Caries,dental caries
+165010440,NCT01944241,Infertility,infertility
+165010441,NCT02037841,Asthma,asthma
+164628279,NCT03180632,Anxiety,anxiety
+164628280,NCT02061839,Melasma,melasma
+164628281,NCT03060122,Neuropathic Pain,neuropathic pain
+164628282,NCT02814500,Healthy,healthy
+164628283,NCT05654077,Nasopharyngeal Carcinoma,nasopharyngeal carcinoma
+164628284,NCT05798000,Safety Issues,safety issues
+164628285,NCT06057961,Substance Use,substance use
+164628286,NCT06246006,Myeloproliferative Disorder,myeloproliferative disorder
+164628287,NCT04825470,Liver Diseases,liver diseases
+164628288,NCT04825470,Liver Cancer,liver cancer
+164819157,NCT01286415,Posttraumatic Stress Disorder,posttraumatic stress disorder
+164628289,NCT04825470,Liver Metastases,liver metastases
+164819158,NCT05088226,Peripheral Blood Stem Cell Transplantation,peripheral blood stem cell transplantation
+164819159,NCT00999154,Healthy Volunteers,healthy volunteers
+164819160,NCT00639366,Breast Cancer,breast cancer
+164628290,NCT04825470,Liver Neoplasms,liver neoplasms
+164628291,NCT04825470,Liver Mass,liver mass
+164628292,NCT04825470,Liver Carcinoma,liver carcinoma
+164628293,NCT04825470,Liver Transplant; Complications,liver transplant; complications
+164628294,NCT04825470,Liver Transplant Disorder,liver transplant disorder
+164628295,NCT04825470,GIST,gist
+164628296,NCT04825470,"GIST, Malignant","gist, malignant"
+164628297,NCT04825470,Gastrointestinal Stromal Tumors,gastrointestinal stromal tumors
+164628298,NCT04825470,Gastrointestinal Stromal Tumor of Duodenum,gastrointestinal stromal tumor of duodenum
+164819161,NCT00535977,Prostatic Intraepithelial Neoplasia,prostatic intraepithelial neoplasia
+164819162,NCT05060614,Delirium,delirium
+164819163,NCT03755440,Gastric Cancer Stage IV,gastric cancer stage iv
+164819164,NCT03755440,EBV,ebv
+164819165,NCT05612243,Healthy,healthy
+164819166,NCT02496975,Traumatic Brain Injury,traumatic brain injury
+164819167,NCT05582616,Cervicogenic Headache,cervicogenic headache
+164819168,NCT04669249,Opioid Use Disorder,opioid use disorder
+164819169,NCT04057196,Lung Cancer Stage III,lung cancer stage iii
+164819170,NCT04057196,Lung Cancer Stage IV,lung cancer stage iv
+164819171,NCT04167709,"Depression, Postpartum","depression, postpartum"
+164819172,NCT06526949,İntensive Care,i̇ntensive care
+164819173,NCT06526949,Nursing,nursing
+164819174,NCT06526949,Reiki,reiki
+164819175,NCT04131829,Obsessive-Compulsive Disorder,obsessive-compulsive disorder
+164819176,NCT06628596,Cognition,cognition
+164819177,NCT06628596,Appetite,appetite
+164819178,NCT06628596,Mental Energy,mental energy
+164819179,NCT06628596,Dietary Supplement,dietary supplement
+164819180,NCT06631781,Depressive Symptoms,depressive symptoms
+164628299,NCT04825470,Gastrointestinal Stromal Tumor of Rectum,gastrointestinal stromal tumor of rectum
+164628300,NCT04825470,Gastrointestinal Stromal Tumor of Other Sites,gastrointestinal stromal tumor of other sites
+164819181,NCT06628817,Acute Ischemic Stroke,acute ischemic stroke
+164819182,NCT03068468,"Supranuclear Palsy, Progressive","supranuclear palsy, progressive"
+164819183,NCT00356317,Schizophrenia,schizophrenia
+164819184,NCT06629922,Healthy,healthy
+164819185,NCT06629922,Young Adults,young adults
+164819186,NCT06629922,Older Adults (65 Years and Older),older adults (65 years and older)
+164819187,NCT06629922,Elderly,elderly
+164819188,NCT04844957,Vitamin D,vitamin d
+164819189,NCT02555449,Healthy,healthy
+164819190,NCT06629649,Glaucoma,glaucoma
+164628301,NCT04825470,"Gastrointestinal Stromal Tumor, Unspecified Site","gastrointestinal stromal tumor, unspecified site"
+164628302,NCT04825470,Gastrointestinal Stromal Tumor of Stomach,gastrointestinal stromal tumor of stomach
+164819191,NCT06629649,Ocular Hypertension,ocular hypertension
+164819192,NCT06630975,Genu Varum,genu varum
